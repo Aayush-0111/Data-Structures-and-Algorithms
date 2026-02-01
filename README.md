@@ -7,10 +7,12 @@
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Sorting
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
@@ -19,4 +21,8 @@
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
