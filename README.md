@@ -12,6 +12,7 @@
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3804-number-of-centered-subarrays) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3803-count-residue-prefixes](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3804-number-of-centered-subarrays) |
 ## Sliding Window
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -97,4 +100,12 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
