@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,11 +34,13 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 | [3803-count-residue-prefixes](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3803-count-residue-prefixes) |
@@ -57,6 +60,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3803-count-residue-prefixes](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3803-count-residue-prefixes) |
 ## Simulation
 |  |
