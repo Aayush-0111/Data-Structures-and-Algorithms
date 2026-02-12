@@ -20,6 +20,7 @@ public:
                 if(!flag) continue;
                 maxi = max(maxi,j-i+1);
             }
+            if(maxi > n-i) break;
         }
         return maxi;
     }
