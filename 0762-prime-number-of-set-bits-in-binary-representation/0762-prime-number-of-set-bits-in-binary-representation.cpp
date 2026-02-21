@@ -6,15 +6,10 @@ public:
         int prime[8] = {2,3,5,7,11,13,17,19}; 
         int ans = 0;
         for(int i = left; i <= right; i++){
-            int cnt = 0;
-            bitset<32>x(i);
-            string s = x.to_string();
-            for(int j = 0; j < 32; j++){
-                if(s[j] == '1') cnt++;
-            }
+            int cnt = __builtin_popcount(i);
             for(int j = 0; j < 8; j++){
                 if(prime[j] == cnt){
-                    ans++;
+                    ++ans;
                     break;
                 }
             }
