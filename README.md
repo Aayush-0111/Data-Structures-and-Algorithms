@@ -63,6 +63,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3210-find-the-encrypted-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3210-find-the-encrypted-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3803-count-residue-prefixes](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3803-count-residue-prefixes) |
