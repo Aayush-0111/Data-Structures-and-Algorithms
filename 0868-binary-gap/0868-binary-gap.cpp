@@ -1,26 +1,14 @@
 class Solution {
 public:
     int binaryGap(int n) {
-        bitset<32> x(n);
-        string t = x.to_string();
-        size_t pos = t.find_first_not_of("0");
-        string s = t.substr(pos);
-        int l = -1, m = s.size(), maxi = 0;
-        for(int r = 0; r < m; r++){
-            if(s[r] == '0' && l != -1){
-                while(r < m && s[r] != '1'){
-                    r++;
-                }
-                if(r == m && s[r-1] == '0'){
-                    break;
-                }
-                maxi = max(maxi,r-l);
-                l = r;
-            }else if(s[r] == '1'){
+        int l = -1, maxi = 0;
+        for(int i = 0; i < 32; i++){
+            // check whether current bit is 1
+            if((n >> i) & 1 > 0){
                 if(l != -1){
-                    maxi = max(maxi,r-l);
+                    maxi = max(maxi,i-l);
                 }
-                l = r;
+                l = i;
             }
         }
         return maxi;
