@@ -39,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -137,6 +139,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -145,4 +148,12 @@
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
