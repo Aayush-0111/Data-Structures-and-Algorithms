@@ -7,6 +7,7 @@
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
 ## Math
@@ -105,6 +107,7 @@
 ## Stack
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
