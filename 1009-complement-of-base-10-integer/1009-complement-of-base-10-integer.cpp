@@ -1,5 +1,4 @@
 class Solution {
-const long long mod = 1e9+9;
 public:
     int bitwiseComplement(int n) {
         bitset<32> x(n);
@@ -12,11 +11,7 @@ public:
         }
         int ans = 0;
         for(char c : s){
-            if(c == '0'){
-                ans = (ans*2%mod + 1)%mod;
-            }else{
-                ans = ans*2%mod;
-            }
+            ans = ((ans << 1) + (c == '0'));
         }
         return ans;
     }
