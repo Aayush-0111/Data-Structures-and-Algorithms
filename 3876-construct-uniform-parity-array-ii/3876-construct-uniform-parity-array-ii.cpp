@@ -1,17 +1,16 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        int n = nums1.size(), j = 0;
+        int n = nums1.size();
         bool flag = true;
-        sort(nums1.begin(),nums1.end());
-        for(int i = 1; i < n; i++){
-            if(nums1[i]%2 != 0) {
+        int mini = *min_element(nums1.begin(),nums1.end());
+        for(int i = 0; i < n; i++){
+            if(nums1[i]%2 != 0){
                 flag = false;
-                continue;
+                break;
             }
-            if(nums1[i] - nums1[j] < 1) return false;
         }
-        if(!flag && nums1[0]%2 == 0) return false;
+        if(!flag && mini%2 == 0) return false;
         return true;
     }
 };
