@@ -15,6 +15,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -162,6 +163,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
@@ -206,4 +208,5 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
