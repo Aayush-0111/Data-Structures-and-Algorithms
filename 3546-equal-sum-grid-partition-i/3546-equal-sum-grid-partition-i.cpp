@@ -14,7 +14,7 @@ public:
                 running_sum += grid[i][j];
             }
             if(running_sum == (total_sum - running_sum)) return true;
-            if(running_sum > total_sum/2) break;
+            else if(running_sum > total_sum/2) break;
         }
         running_sum = 0;
         for(int i = 0; i < m; i++){
@@ -22,7 +22,7 @@ public:
                 running_sum += grid[j][i];
             }
             if(running_sum == (total_sum - running_sum)) return true;
-            if(running_sum > total_sum/2) break;
+            else if(running_sum > total_sum/2) break;
         }
         return false;
     }
