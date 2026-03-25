@@ -8,6 +8,7 @@ public:
                 total_sum += grid[i][j];
             }
         }
+        if(total_sum % 2) return false;
         long long running_sum = 0;
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
