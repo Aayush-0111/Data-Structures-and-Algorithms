@@ -3,9 +3,9 @@ public:
     vector<int> getSneakyNumbers(vector<int>& nums) {
         int n = nums.size();
         vector<int> ans;
-        unordered_map<int,int> frq;
+        int frq[101] = {0};
         for(int i : nums){
-            if(!frq.count(i)) frq[i]++;
+            if(frq[i] == 0) frq[i]++;
             else {
                 ans.push_back(i);
             }
