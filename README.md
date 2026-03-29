@@ -94,6 +94,7 @@
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3210-find-the-encrypted-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3210-find-the-encrypted-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
