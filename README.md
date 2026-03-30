@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
+| [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -185,6 +186,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
@@ -238,6 +240,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
 ## Randomized
