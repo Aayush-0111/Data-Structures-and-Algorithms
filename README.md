@@ -91,6 +91,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -248,4 +249,8 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
