@@ -14,6 +14,7 @@ public:
             if(frq[i] != 0 && newMass >= i){
                 newMass += 1LL*frq[i]*i;
             }else if(frq[i] != 0 && newMass < i) return false;
+            if(newMass >= maxi) return true;
         }
         return true;
     }
