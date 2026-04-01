@@ -1,21 +1,21 @@
 class Solution {
 public:
     bool asteroidsDestroyed(int mass, vector<int>& asteroids) {
-        priority_queue<int,vector<int>,greater<int>> pq;
         int n = asteroids.size();
+        int maxi = *max_element(asteroids.begin(),asteroids.end());
+        int mini = *min_element(asteroids.begin(),asteroids.end());
         long long newMass = mass;
+        vector<int> frq(maxi+1,0);
         for(int i = 0; i < n; i++){
-            if(newMass < asteroids[i]){
-                pq.push(asteroids[i]);
-            }else{
-                newMass += asteroids[i];
-            }
+            if(newMass >= asteroids[i]) newMass += asteroids[i];
+            else frq[asteroids[i]]++;
         }
-        while(!pq.empty()){
-            if(pq.top() > newMass) return false;
-            else {
-                newMass += pq.top();
-                pq.pop();
+        for(int i = mini; i <= maxi; i++){
+            if(frq[i] != 0 && newMass >= i){
+                newMass += 1LL*frq[i]*i;
+            }else {
+                if(frq[i] == 0) continue;
+                else return false;
             }
         }
         return true;
