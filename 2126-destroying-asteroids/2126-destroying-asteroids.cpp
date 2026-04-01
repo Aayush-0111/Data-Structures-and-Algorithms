@@ -13,10 +13,7 @@ public:
         for(int i = mini; i <= maxi; i++){
             if(frq[i] != 0 && newMass >= i){
                 newMass += 1LL*frq[i]*i;
-            }else {
-                if(frq[i] == 0) continue;
-                else return false;
-            }
+            }else if(frq[i] != 0 && newMass < i) return false;
         }
         return true;
     }
