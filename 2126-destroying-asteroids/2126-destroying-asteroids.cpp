@@ -11,9 +11,10 @@ public:
             else frq[asteroids[i]]++;
         }
         for(int i = mini; i <= maxi; i++){
-            if(frq[i] != 0 && newMass >= i){
+            if(frq[i] > 0){
+                if(newMass < i) return false;
                 newMass += 1LL*frq[i]*i;
-            }else if(frq[i] != 0 && newMass < i) return false;
+            }
             if(newMass >= maxi) return true;
         }
         return true;
