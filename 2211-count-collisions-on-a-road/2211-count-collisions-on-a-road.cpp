@@ -2,7 +2,7 @@ class Solution {
 public:
     int countCollisions(string directions) {
         int s = 0, r = 0, ans = 0;
-        for(char c : directions){
+        for(char& c : directions){
             if(c == 'R'){
                 r++;
                 s = 0;
