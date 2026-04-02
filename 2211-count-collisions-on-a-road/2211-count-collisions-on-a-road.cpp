@@ -14,7 +14,7 @@ public:
                     }
                     if(st.empty()) st.push(c);
                 }
-            }else if(c == 'L') {
+            }else{
                 if(!st.empty() && st.top() == 'R'){
                     ans+= 2;
                     st.pop();
