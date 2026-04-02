@@ -108,6 +108,7 @@
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3210-find-the-encrypted-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3210-find-the-encrypted-string) |
@@ -122,6 +123,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
@@ -151,6 +153,7 @@
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 ## Tree
 |  |
