@@ -1,34 +1,28 @@
 class Solution {
 public:
     int countCollisions(string directions) {
-        int n = directions.size();
-        int ans = 0, r = 0, s = 0;
-        char last;
+        int s = 0, r = 0, ans = 0;
         for(char c : directions){
-            if(c == 'R') {
+            if(c == 'R'){
                 r++;
                 s = 0;
-                last = 'R';
             }else if(c == 'S'){
-                if(r != 0 && last == 'R'){
+                if(r != 0){
                     ans += r;
                     r = 0;
                 }
-                last = 'S';
                 s++;
-            }else{
-                if(r != 0 && last == 'R'){
+            }else {
+                if(s != 0){
+                    ans += 1;
+                }else if(r != 0){
                     ans += 2;
-                    last = 'S';
-                    s++;
                     r--;
+                    s++;
                     if(r != 0){
                         ans += r;
                         r = 0;
-                        continue;
                     }
-                }else if(s != 0 && last == 'S'){
-                    ans++;
                 }
             }
         }
