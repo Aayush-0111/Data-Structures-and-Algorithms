@@ -10,6 +10,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
 | [0605-can-place-flowers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
+| [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -245,6 +247,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Matrix
@@ -262,6 +265,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
+| [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 ## Randomized
 |  |
@@ -275,5 +279,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
