@@ -1,32 +1,18 @@
 class Solution {
 public:
     string decodeCiphertext(string encodedText, int rows) {
+        if(rows == 1) return encodedText;
         int n = encodedText.size();
-        int cols = n/rows, x = 0;
-        string originalText = "", rawText = "";
-        vector<vector<bool>> visited(rows,vector<bool>(cols,false));
-        vector<vector<char>> matrix(rows,vector<char>(cols));
-        for(int i = 0; i < rows; i++){
-            for(int j = 0; j < cols; j++){
-                matrix[i][j] = encodedText[x++];
+        int cols = n/rows;
+        string originalText = "";
+        for(int i = 0; i < cols; i++){
+            int r = 0, c = i;
+            while(r < rows && c < cols){
+                originalText += encodedText[r*cols + c];
+                r++; c++;
             }
         }
-    
-        for(int j = 0; j < cols; j++){
-            int k = j;
-            for(int i = 0; i < rows; i++){
-                if(!visited[i][k]){
-                    rawText += matrix[i][k];
-                    visited[i][k] = true;
-                }
-                if(k < cols-1) k++;
-            }
-        }
-        int p = rawText.size()-1;
-        while(p >= 0 && rawText[p] == ' ') p--;
-
-        originalText = rawText.substr(0,p+1);
-
-        return originalText;
+        while(!originalText.empty() && originalText.back() == ' ') originalText.pop_back();
+        return originalText;   
     }
 };
