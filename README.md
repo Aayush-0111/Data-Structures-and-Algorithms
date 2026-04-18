@@ -174,6 +174,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
@@ -284,6 +285,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
