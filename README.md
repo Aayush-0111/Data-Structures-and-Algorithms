@@ -164,6 +164,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
