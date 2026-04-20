@@ -1,13 +1,11 @@
 class Solution {
 public:
     int maximumDifference(vector<int>& nums) {
-        int n = nums.size();
-        int maxi = -1;
-        for(int i = 0; i < n-1; i++){
-            for(int j = i+1; j < n; j++){
-                maxi = max(maxi,nums[j]-nums[i]);
-            }
+        int n = nums.size(), maxi = -1, mini = nums[0];
+        for(int i = 1; i < n; i++){
+            maxi = max(maxi,nums[i]-mini);
+            mini = min(mini,nums[i]);
         }
-        return (maxi > 0) ? maxi : -1; 
+        return (maxi > 0) ? maxi : -1;
     }
 };
