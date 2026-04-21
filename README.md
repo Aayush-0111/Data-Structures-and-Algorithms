@@ -109,6 +109,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
@@ -228,6 +231,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
@@ -298,6 +302,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 ## Randomized
@@ -314,4 +319,8 @@
 | ------- |
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
