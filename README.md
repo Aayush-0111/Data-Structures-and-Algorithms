@@ -44,6 +44,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
 | [3452-sum-of-good-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3452-sum-of-good-numbers) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3637-trionic-array-i) |
@@ -63,6 +64,7 @@
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
@@ -77,6 +79,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Enumeration
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -334,4 +338,8 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
