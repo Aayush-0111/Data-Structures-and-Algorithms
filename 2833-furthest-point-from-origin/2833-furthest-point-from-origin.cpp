@@ -1,12 +1,12 @@
 class Solution {
 public:
     int furthestDistanceFromOrigin(string moves) {
-        int r = 0, l = 0, b = 0;
-        for(char& c : moves){
-            if(c == 'R') r++;
-            else if(c == 'L') l++;
-            else b++;
+        int n = moves.size(), cnt = 0, cntB = 0;
+        for(char &c : moves){
+            if(c == 'R') cnt++;
+            else if(c == 'L') cnt--;
+            else cntB++;
         }
-        return (l == r) ? b : (abs(l-r)+b);
+        return abs(cnt) + cntB; 
     }
 };
