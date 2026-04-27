@@ -1,33 +1,32 @@
 class Solution {
 public:
     vector<int> findValidElements(vector<int>& nums) {
-        int n = nums.size(), ml = 0, mr = 0;
-        vector<int> ans;
+        int n = nums.size(), ml = nums[0], mr = nums[n-1], last = 0;
+        if(n == 1) return nums;
         vector<bool> inc(n,false);
-        int last = 0;
-        for(int i = 0; i < n; i++){
-            if(nums[i] > ml){
+        vector<int> ans, t;
+        ans.push_back(nums[0]);
+        t.push_back(nums[n-1]);
+        inc[n-1] = true; inc[0] = true;
+        for(int i = 1; i < n; i++){
+            if(nums[i] > ml && !inc[i]){
                 ans.push_back(nums[i]);
                 ml = nums[i];
                 inc[i] = true;
                 last = i;
             }
         }
-        for(int i : ans){
-            cout << i << " ";
-        }
-        int x = ans.size();
-        for(int i = n-1; i > last; i--){
+        for(int i = n-2; i > last; i--){
             if(nums[i] > mr && !inc[i]){
-                ans.push_back(nums[i]);
+                t.push_back(nums[i]);
                 mr = nums[i];
                 inc[i] = true;
             }
         }
-        if(x < ans.size()){
-            int y = ans.size() - 1;
-            while(x <= y){
-                swap(ans[x++],ans[y--]);
+        if(!t.empty()){
+            int j = t.size()-1;
+            while(j >= 0){
+                ans.push_back(t[j--]);
             }
         }
         return ans;
