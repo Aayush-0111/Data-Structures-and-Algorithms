@@ -11,6 +11,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
+| [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0605-can-place-flowers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
@@ -171,6 +172,7 @@
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
+| [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -186,6 +188,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
