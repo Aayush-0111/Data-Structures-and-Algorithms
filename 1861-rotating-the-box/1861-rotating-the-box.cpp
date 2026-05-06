@@ -1,27 +1,34 @@
 class Solution {
 public:
-    vector<vector<char>> rotateTheBox(vector<vector<char>>& boxGrid) {
-        int n = boxGrid.size(), m = boxGrid[0].size();
-        vector<vector<char>> ans(m,vector<char>(n));
-        // # -> stone
-        // * -> obstacle
-        // > -> empty
-        for(int i = 0; i < n; i++){
-            int empty = m-1;
-            for(int j = m-1; j >= 0; j--){
-                if(boxGrid[i][j] == '*'){
-                    empty = j-1;
-                }else if(boxGrid[i][j] == '#'){
-                    swap(boxGrid[i][j],boxGrid[i][empty]);
-                    empty--;
+    vector<vector<char>> rotateTheBox(vector<vector<char>>& box) {
+        int m = box.size();
+        int n = box[0].size();
+        vector<vector<char>> result(n, vector<char>(m, '.'));
+
+        // Apply gravity to let stones fall to the lowest possible empty cell in
+        // each column
+        for (int i = 0; i < m; i++) {
+            int lowestRowWithEmptyCell = n - 1;
+            // Process each cell in row `i` in reversed order
+            for (int j = n - 1; j >= 0; j--) {
+                // Found a stone - let it fall to the lowest empty cell
+                if (box[i][j] == '#') {
+                    // Place it in the correct position in the rotated grid
+                    result[lowestRowWithEmptyCell][m - i - 1] = '#';
+                    // (Optional - already initialized to '.') result[j][m - i -
+                    // 1] = '.';
+                    lowestRowWithEmptyCell--;
+                }
+                // Found an obstacle - reset `lowestRowWithEmptyCell` to the row
+                // directly above it
+                if (box[i][j] == '*') {
+                    // Place the obstacle in the correct position in the rotated
+                    // grid
+                    result[j][m - i - 1] = '*';
+                    lowestRowWithEmptyCell = j - 1;
                 }
             }
         }
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                ans[j][n-i-1] = boxGrid[i][j];
-            }
-        }
-        return ans;
+        return result;
     }
 };
