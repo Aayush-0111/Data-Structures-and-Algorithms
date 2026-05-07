@@ -20,6 +20,7 @@
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -159,6 +160,7 @@
 | [0657-robot-return-to-origin](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -310,6 +312,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
