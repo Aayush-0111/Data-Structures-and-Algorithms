@@ -54,6 +54,11 @@ public:
         int row = grid.size()-1, col = grid[0].size()-1, r = 0, c = 0;
         int x = min(row+1,col+1)/2;
         while(x--){
+            int n = 2 * ((row - r + 1) + (col - c + 1)) - 4;
+            if(k%n == 0) {
+                c++; r++; row--; col--;
+                continue;
+            }
             vector<int> layer = extractLayer(grid,r,c,row,col);
             rotate(layer,k);
             reArrange(grid,layer,r,c,row,col);
