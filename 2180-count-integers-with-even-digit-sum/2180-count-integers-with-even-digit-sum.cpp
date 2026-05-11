@@ -10,10 +10,7 @@ private:
     }
 public:
     int countEven(int num) {
-        int ans = 0;
-        for(int i  = 1; i <= num; i++){
-            if(digSum(i)%2 == 0) ans++;
-        }
-        return ans;
+        int sum = digSum(num);
+        return (sum % 2 == 0) ? num/2 : (num-1)/2;
     }
 };
