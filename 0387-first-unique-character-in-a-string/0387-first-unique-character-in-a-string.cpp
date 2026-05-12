@@ -3,7 +3,6 @@ public:
     int firstUniqChar(string s) {
         int n = s.size();
         int frq[26] = {0};
-        vector<bool> state(26,true);
         queue<int> q;
         for(int i = 0; i < n; i++){
             char c = s[i];
