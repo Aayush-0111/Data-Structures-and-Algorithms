@@ -8,9 +8,7 @@ public:
             char c = s[i];
             frq[c-'a']++;
             q.push(i);
-            if(frq[c-'a'] != 1){
-                while(!q.empty() && frq[s[q.front()]-'a'] > 1) q.pop();
-            }
+            while(!q.empty() && frq[s[q.front()]-'a'] > 1) q.pop();
         }
         return (!q.empty()) ? q.front() : -1;
     }
