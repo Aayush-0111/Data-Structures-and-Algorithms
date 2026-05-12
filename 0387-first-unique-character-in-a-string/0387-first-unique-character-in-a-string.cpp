@@ -3,10 +3,16 @@ public:
     int firstUniqChar(string s) {
         int n = s.size();
         int frq[26] = {0};
-        for(char& c : s) frq[c-'a']++;
+        vector<bool> state(26,true);
+        queue<int> q;
         for(int i = 0; i < n; i++){
-            if(frq[s[i]-'a'] == 1) return i;
+            char c = s[i];
+            frq[c-'a']++;
+            q.push(i);
+            if(frq[c-'a'] != 1){
+                while(!q.empty() && frq[s[q.front()]-'a'] > 1) q.pop();
+            }
         }
-        return -1;
+        return (!q.empty()) ? q.front() : -1;
     }
 };
