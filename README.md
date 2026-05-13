@@ -27,6 +27,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -111,6 +112,7 @@
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
