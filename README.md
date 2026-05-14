@@ -22,6 +22,7 @@
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
+| [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
+| [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
+| [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -329,6 +332,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
+| [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
 ## Rolling Hash
