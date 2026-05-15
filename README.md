@@ -150,6 +150,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
