@@ -69,6 +69,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3804-number-of-centered-subarrays) |
+| [3819-rotate-non-negative-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3819-rotate-non-negative-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3819-rotate-non-negative-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3819-rotate-non-negative-elements) |
 ## Math
 |  |
 | ------- |
