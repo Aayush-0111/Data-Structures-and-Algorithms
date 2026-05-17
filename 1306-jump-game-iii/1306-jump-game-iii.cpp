@@ -4,11 +4,9 @@ private:
         int n = adj.size();
         for(int i = 0; i < n; i++){
             // left neighbour
-            if(i == 0) adj[i][0] = -1;
-            else adj[i][0] = (i-nums[i] >= 0) ? i-nums[i] : -1; 
+            adj[i][0] = (i-nums[i] >= 0) ? i-nums[i] : -1; 
             // right neighbour
-            if(i == n-1) adj[i][1] = -1;
-            else adj[i][1] = (i+nums[i] < n) ? i+nums[i] : -1;
+            adj[i][1] = (i+nums[i] < n) ? i+nums[i] : -1;
         }
     }
     bool bfs(vector<vector<int>>& adj, vector<int>& arr, unordered_map<int,bool>& visited, int node){
