@@ -9,7 +9,7 @@ private:
             adj[i][1] = (i+nums[i] < n) ? i+nums[i] : -1;
         }
     }
-    bool bfs(vector<vector<int>>& adj, vector<int>& arr, unordered_map<int,bool>& visited, int node){
+    bool bfs(vector<vector<int>>& adj, vector<int>& arr, vector<bool>& visited, int node){
         queue<int> q;
         q.push(node);
         visited[node] = true;
@@ -37,7 +37,7 @@ public:
         //   /       |
         //  i-1      i+1
         // create visited
-        unordered_map<int,bool> visited;
+        vector<bool> visited(n,false);
         return bfs(adj,arr,visited,start);
     }
 };
