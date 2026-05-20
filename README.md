@@ -50,6 +50,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
@@ -131,6 +132,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -335,6 +337,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
