@@ -57,6 +57,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3355-zero-array-transformation-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3355-zero-array-transformation-i) |
@@ -136,6 +137,7 @@
 | [2784-check-if-array-is-good](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
@@ -186,6 +188,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3210-find-the-encrypted-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3210-find-the-encrypted-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
@@ -413,6 +416,7 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Geometry
 |  |
 | ------- |
