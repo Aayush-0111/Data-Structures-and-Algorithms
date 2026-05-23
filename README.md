@@ -35,6 +35,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
