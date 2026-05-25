@@ -21,8 +21,8 @@ private:
                     q.push(j);
                     visited[j] = true;
                 }
-                farthest = j;
             }
+            farthest = min(f+maxJump,n-1);
         }
         return false;
     }
