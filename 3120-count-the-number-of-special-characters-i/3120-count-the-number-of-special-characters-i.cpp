@@ -2,7 +2,7 @@ bool frq1[26] = {false}, frq2[26] = {false};
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        int n = word.size(), ans = 0;
+        int ans = 0;
         int frq1[26] = {0}, frq2[26] = {0};
         for(char& c : word){
             if(c >= 'a' && c <= 'z' && !frq1[c-'a']) frq1[c-'a'] = true;
