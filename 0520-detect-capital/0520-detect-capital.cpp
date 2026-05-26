@@ -2,21 +2,13 @@ class Solution {
 public:
     bool detectCapitalUse(string word) {
         int n = word.size();
-        if(n == 1) return true;
-        bool up = false, rest = false;
-        if(word[0] >= 'A' && word[0] <= 'Z') up = true; 
-        if(word[1] >= 'A' && word[1] <= 'Z'){
-            if(!up) return false;
-            rest = true;
-        }
-        for(int i = 2; i < n; i++){
-            if(word[i] >= 'A' && word[i] <= 'Z'){
-                if(up && !rest || !up) return false;
-            }
-            else{
-                if(rest) return false;
-            }
-        }
-        return true;
+        int capCnt = 0;
+        for(char& c : word) if(isupper(c)) capCnt++;
+        // All uppercase or no uppercase
+        if(capCnt == n || capCnt == 0) return true;
+        // Starting upper and rest lower
+        if(isupper(word[0]) && capCnt == 1) return true;
+        // Rest all invalid
+        return false;
     }
 };
