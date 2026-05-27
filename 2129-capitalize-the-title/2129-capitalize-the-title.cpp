@@ -1,47 +1,21 @@
 class Solution {
 public:
     string capitalizeTitle(string title) {
-        int n = title.size(), i = 0;
-        string s = "";
-        while(i < n){
-            char c = title[i];
-            if(c == ' '){
-                int len = s.size();
-                if(len <= 2){
-                    int j = i-len;
-                    while(j < n && title[j] != ' '){
-                        title[j] = tolower(title[j]);
-                        j++;
-                    }
-                }else{
-                    title[i-len] = toupper(title[i-len]);
-                    int j = i-len+1;
-                    while(j < n && title[j] != ' '){
-                        title[j] = tolower(title[j]);
-                        j++;
-                    }
-                }
-                s = "";
-            }else{
-                s += title[i];
+        int n = title.size(), start = 0, len;
+        for(int i = 0; i < n; i++){
+            title[i] = tolower(title[i]);
+            len = 0;
+            if(i == 0 || (i > 0 && title[i-1] == ' ')){
+                start = i;
             }
-            i++;
+            while(i < n && title[i] != ' ') {
+                title[i] = tolower(title[i]);
+                len++;
+                i++;
+            }
+            if(len > 2) title[start] = toupper(title[start]);
         }
-        int len = s.size();
-        if(s.size() <= 2){
-            int j = i-len;
-            while(j < n && title[j] != ' '){
-                title[j] = tolower(title[j]);
-                j++;
-            }
-        }else{
-            title[i-len] = toupper(title[i-len]);
-            int j = i-len+1;
-            while(j < n && title[j] != ' '){
-                title[j] = tolower(title[j]);
-                j++;
-            }
-        }
+        if(len > 2) title[start] = toupper(title[start]);
         return title;
     }
 };
