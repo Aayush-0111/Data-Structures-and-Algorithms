@@ -192,6 +192,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2129-capitalize-the-title) |
 | [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
