@@ -17,6 +17,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
+| [0498-diagonal-traverse](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
@@ -391,6 +393,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [0498-diagonal-traverse](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
