@@ -2,10 +2,9 @@ class Solution {
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
         int n = mat.size(), m = mat[0].size();
-        vector<int> ans;
+        vector<int> ans,v;
         bool flag = true;
         for(int sum = 0; sum <= m+n-2; sum++){
-            vector<int> v;
             for(int i = 0; i < n; i++){
                 int j = sum-i;
                 if(j < 0 || j > m-1) continue;
@@ -17,6 +16,7 @@ public:
                 for(int& i : v) ans.push_back(i);
                 flag = false;
             }else flag = true;
+            v.clear();
         }
         
         return ans;
