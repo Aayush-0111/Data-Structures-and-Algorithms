@@ -64,6 +64,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3355-zero-array-transformation-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3355-zero-array-transformation-i) |
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
 | [3452-sum-of-good-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3452-sum-of-good-numbers) |
@@ -94,6 +95,7 @@
 | [2784-check-if-array-is-good](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
@@ -325,6 +327,7 @@
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 ## Binary Search Tree
 |  |
 | ------- |
