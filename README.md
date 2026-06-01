@@ -48,6 +48,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -90,6 +91,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2126-destroying-asteroids](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2784-check-if-array-is-good) |
@@ -326,6 +328,7 @@
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
