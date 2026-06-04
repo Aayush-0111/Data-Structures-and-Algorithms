@@ -135,6 +135,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3804-number-of-centered-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
 |  |
@@ -267,6 +268,7 @@
 | [3370-smallest-number-with-all-set-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -282,6 +284,7 @@
 | [1871-jump-game-vii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
