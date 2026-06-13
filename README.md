@@ -85,6 +85,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3804-number-of-centered-subarrays) |
 | [3819-rotate-non-negative-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3819-rotate-non-negative-elements) |
+| [3838-weighted-word-mapping](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3803-count-residue-prefixes](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3803-count-residue-prefixes) |
+| [3838-weighted-word-mapping](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3819-rotate-non-negative-elements) |
+| [3838-weighted-word-mapping](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
