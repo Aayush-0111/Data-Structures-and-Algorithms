@@ -1,12 +1,10 @@
 class Solution {
 public:
     string processStr(string s) {
-        int n = s.size();
         string result = "";
-        for(int i = 0; i < n; i++){
-            char c = s[i];
+        for(char& c : s){
             if(c == '*'){
-                if(result.size() > 0) result.pop_back();
+                if(!result.empty()) result.pop_back();
             }
             else if(c == '#'){
                 result += result;
