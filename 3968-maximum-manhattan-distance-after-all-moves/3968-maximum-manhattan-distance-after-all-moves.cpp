@@ -9,13 +9,6 @@ public:
             else if(c == 'D') y--;
             else blnk++;
         }
-        if(abs(x) > abs(y)){
-            if(x < 0) x -= blnk;
-            else x += blnk;
-        }else{
-            if(y < 0) y -= blnk;
-            else y += blnk;
-        }
-        return abs(x) + abs(y);
+        return abs(x) + abs(y) + blnk;
     }
 };
