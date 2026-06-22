@@ -155,6 +155,7 @@
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -181,6 +182,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1871-jump-game-vii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -203,6 +205,7 @@
 | [0796-rotate-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
