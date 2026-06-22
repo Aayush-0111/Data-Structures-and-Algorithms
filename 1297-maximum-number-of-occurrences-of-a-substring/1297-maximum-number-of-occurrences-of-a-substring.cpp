@@ -25,7 +25,7 @@ public:
         // selected susbtring will contain the minsize substring and it will have atleast frequency
         // of bigger substring. And since, smaller substing have larger frequency, checking for minSize
         // substrings will suffice.
-        long long hash = 0, pow = powMod(89,minSize-1);
+        long long hash = 0, pow = powMod(290,minSize-1);
         int start = 0, ans = 0;
         for(int i = 0; i < n; i++){
             frq2[s[i]]++;
@@ -34,7 +34,7 @@ public:
                 if(--frq2[s[start]] == 0) frq2.erase(s[start]);
                 start++;
             }
-            hash = (hash*89%mod + s[i]-'a')%mod;
+            hash = (hash*290%mod + s[i]-'a')%mod;
             if(i-start+1 == minSize && frq2.size() <= maxLetters){
                 ans = max(ans,++frq1[hash]);
             }
