@@ -28,6 +28,7 @@
 | [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -154,6 +156,7 @@
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -204,6 +207,7 @@
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
