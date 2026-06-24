@@ -279,6 +279,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
+| [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
@@ -304,6 +305,7 @@
 | [0053-maximum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
+| [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0799-champagne-tower) |
 | [1025-divisor-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1025-divisor-game) |
 | [1340-jump-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
@@ -527,4 +529,12 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1833-maximum-ice-cream-bars) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
