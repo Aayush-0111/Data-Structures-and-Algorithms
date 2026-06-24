@@ -21,6 +21,7 @@
 | [0605-can-place-flowers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
+| [0704-binary-search](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
@@ -129,6 +130,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
