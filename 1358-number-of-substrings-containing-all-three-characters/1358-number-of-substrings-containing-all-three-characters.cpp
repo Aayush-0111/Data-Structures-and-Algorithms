@@ -1,19 +1,19 @@
 class Solution {
 public:
-    bool hasAll(int *frq){
-        return (frq[0] && frq[1] && frq[2]);
-    }
     int numberOfSubstrings(string s) {
-        int n = s.size(), l = 0, ans = 0;
-        int frq[3] = {0};
-        for(int r = 0; r < n; r++){
-            char c = s[r];
-            frq[c-'a']++;
-            while(hasAll(frq)){
-                ans += n-r; // every extension(to the right) of a valid window is also valid.
-                // like [l,r] -> valid, so is [l,r+1],[l,r+2]...[l,n-1] so n-r is representing just that.
-                --frq[s[l++]-'a'];
-            }
+        // track the last pos of a,b,c and if all are present
+        // every substring from that point onwards till the starting is valid
+        // minimum of the last seen pos of a,b,c is the point from which every every
+        // substring we make till pos = 0 is valid
+        // ex: abcab, posC = 2 and from that we have 0,1,2 as valid starting points for our valid substrs.
+
+        int n = s.size(), ans = 0;
+        int frq[3] = {-1,-1,-1};
+        for(int i = 0; i < n; i++){
+            frq[s[i]-'a'] = i;
+            int k = min({frq[0],frq[1],frq[2]});
+            if(k < 0) continue;
+            ans += k+1;
         }
         return ans;
     }
