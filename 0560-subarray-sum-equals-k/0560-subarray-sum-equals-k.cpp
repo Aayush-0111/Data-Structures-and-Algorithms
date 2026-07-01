@@ -6,9 +6,9 @@ public:
         unordered_map<int,int> mp;
         for(int& i : nums) prefix.push_back(sum += i);
         for(int i = 0; i < n; i++){
-            if(prefix[i] == k) ++ans;
+            ans += (prefix[i] == k) ? 1 : 0;
             int x = prefix[i]-k;
-            if(mp.count(x)) ans += mp[x];
+            ans += (mp.count(x)) ? mp[x] : 0;
             mp[prefix[i]]++;
         }
         return ans;
