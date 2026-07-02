@@ -64,6 +64,7 @@
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2784-check-if-array-is-good) |
@@ -258,6 +259,7 @@
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -315,6 +317,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
