@@ -4,12 +4,7 @@ public:
         long long ans = 0;
         sort(nums.begin(),nums.end());
         int i = nums.size()-1;
-        while(k){
-            ans += (mul > 0) ? 1LL*mul*nums[i] : nums[i];
-            --k;
-            --mul;
-            --i;
-        }
+        while(k--) ans += 1LL*max(mul--,1)*nums[i--];
         return ans;
     }
 };
