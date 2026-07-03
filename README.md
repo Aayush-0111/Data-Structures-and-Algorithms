@@ -99,6 +99,7 @@
 | [3804-number-of-centered-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3804-number-of-centered-subarrays) |
 | [3819-rotate-non-negative-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Counting
 |  |
 | ------- |
@@ -411,6 +413,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3689-maximum-total-subarray-value-i) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
