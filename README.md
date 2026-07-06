@@ -34,6 +34,7 @@
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1288-remove-covered-intervals](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
+| [1288-remove-covered-intervals](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
