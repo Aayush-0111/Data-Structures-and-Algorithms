@@ -1,16 +1,32 @@
 class Solution {
+private:
+    long long dig(int n){
+        long long x = 0;
+        while(n){
+            if(n%10 == 0) {
+                n /= 10;
+                continue;
+            }
+            x = x*10 + n%10;
+            n /= 10;
+        }
+        long long ans = 0;
+        while(x){
+            ans = ans*10 + x%10;
+            x /= 10;
+        }
+        return ans;
+    }
+    long long sum(int n){
+        long long ans = 0;
+        while(n){
+            ans += n%10;
+            n /= 10;
+        }
+        return ans;
+    }
 public:
     long long sumAndMultiply(int n) {
-        string s = to_string(n);
-        long long sum = 0, p = 1, x = 0;
-        reverse(s.begin(),s.end());
-        for(char c : s){
-            if(c == '0') continue;
-            int l = c-'0';
-            x += l*p;
-            p *= 10;
-            sum += l;
-        }
-        return 1LL*x*sum;
+        return 1LL*dig(n)*sum(n);
     }
 };
