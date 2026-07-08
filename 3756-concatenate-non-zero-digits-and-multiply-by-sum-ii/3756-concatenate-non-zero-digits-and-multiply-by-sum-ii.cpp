@@ -1,4 +1,4 @@
-static int mod = 1e9+7;
+static constexpr int mod = 1e9+7;
 static const vector<int> power = [](){
     vector<int> p(100001);
     p[0] = 1;
