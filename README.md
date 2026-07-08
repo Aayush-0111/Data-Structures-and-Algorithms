@@ -281,6 +281,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3803-count-residue-prefixes](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3803-count-residue-prefixes) |
 | [3838-weighted-word-mapping](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -338,6 +339,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -456,6 +458,7 @@
 | [3721-longest-balanced-subarray-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
