@@ -2,11 +2,9 @@ class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         vector<int> temp = arr;
-        unordered_map<int,int> mp;
         sort(temp.begin(),temp.end());
-        int rnk = 1;
-        for(int& i : temp) if(!mp.count(i)) mp[i] = rnk++;
-        for(int& i : arr) i = mp[i];
+        temp.erase(unique(temp.begin(),temp.end()),temp.end());
+        for(int i = 0; i < arr.size(); i++) arr[i] = lower_bound(temp.begin(),temp.end(),arr[i]) - temp.begin() + 1;
         return arr;
     }
 };
