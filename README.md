@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
@@ -491,6 +492,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0401-binary-watch) |
