@@ -187,6 +187,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -251,6 +253,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
@@ -505,6 +508,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0567-permutation-in-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
