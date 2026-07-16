@@ -1,9 +1,7 @@
 class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> prefixGCD(n,0);
-        int mx = nums[0];
+        int n = nums.size(), mx = nums[0];
         for(int& i : nums){
             mx = max(mx,i);
             i = gcd(mx,i);
