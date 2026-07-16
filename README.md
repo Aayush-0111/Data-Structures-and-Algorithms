@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
@@ -502,6 +503,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
