@@ -106,6 +106,7 @@
 | [3804-number-of-centered-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3804-number-of-centered-subarrays) |
 | [3819-rotate-non-negative-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
@@ -133,6 +134,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Counting
 |  |
@@ -323,6 +325,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -355,6 +358,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -518,6 +522,7 @@
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -595,6 +600,7 @@
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
