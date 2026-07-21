@@ -1,11 +1,11 @@
 class Solution {
 private:
-    void solve(int n, int k, int i, vector<int> op, vector<vector<int>>& ans){
+    void solve(int n, int k, int i, vector<int>& op, vector<vector<int>>& ans){
         if(op.size() == k){
             ans.push_back(op);
             return;
         }
-        for(int j{i}; j <= n; j++){
+        for(int j{i}; j <= n-(k-op.size())+1; j++){
             op.push_back(j);
             solve(n,k,j+1,op,ans);
             op.pop_back();
