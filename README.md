@@ -28,6 +28,7 @@
 | [0525-contiguous-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0047-permutations-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [1288-remove-covered-intervals](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1288-remove-covered-intervals) |
@@ -348,6 +350,7 @@
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
