@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
@@ -579,6 +581,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
