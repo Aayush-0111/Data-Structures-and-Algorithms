@@ -40,6 +40,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
+| [0877-stone-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -367,6 +368,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
+| [0877-stone-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
 | [1025-divisor-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -403,6 +405,7 @@
 | [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1025-divisor-game) |
 | [1340-jump-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -662,6 +665,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
