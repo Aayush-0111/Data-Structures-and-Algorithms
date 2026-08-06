@@ -10,7 +10,11 @@ private:
     }
 public:
     int smallestNumber(int n, int t) {
-        for(int i{n}; i <= 100; ++i) if(prod(i)%t == 0) return i;
-        return 1;
+        int i = n;
+        while(i%10){
+            if(!(prod(i)%t)) break;
+            ++i;
+        }
+        return i;
     }
 };
