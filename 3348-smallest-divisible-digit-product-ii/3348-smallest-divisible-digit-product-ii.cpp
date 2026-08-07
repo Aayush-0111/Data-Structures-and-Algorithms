@@ -2,7 +2,7 @@ class Solution {
 public:
     string smallestNumber(string num, long long t) {
         long long temp = t;
-        for(const int& i : {2,3,5,7}){
+        for(int i{2}; i <= 9; ++i){
             while(temp%i == 0) temp /= i;
         }
         if(temp > 1) return "-1";
