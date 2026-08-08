@@ -325,6 +325,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3210-find-the-encrypted-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3210-find-the-encrypted-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -426,6 +427,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
@@ -492,6 +494,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -584,6 +587,7 @@
 | [1861-rotating-the-box](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
