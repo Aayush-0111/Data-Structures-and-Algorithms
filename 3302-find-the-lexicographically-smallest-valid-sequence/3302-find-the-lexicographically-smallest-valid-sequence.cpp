@@ -9,7 +9,6 @@ public:
                 --j;
             }
         }
-        for(int i:suff) cout << i << " ";
         vector<int> ans;
         j = 0;
         for(int i{0}; i < n; ++i){
