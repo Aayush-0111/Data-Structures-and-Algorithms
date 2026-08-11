@@ -1,3 +1,4 @@
+static int mp[51] = {0};
 class Solution {
 public:
     int missingInteger(vector<int>& nums) {
@@ -13,11 +14,11 @@ public:
         if(j+1 == n) return sum;
         int maxi = *max_element(nums.begin(),nums.end());
         if(sum > maxi) return sum;
-        unordered_map<int,int> mp;
+        memset(mp,0,sizeof(mp));
         j = 0;
         while(j < n) ++mp[nums[j++]];
         while(sum <= maxi){
-            if(!mp.count(sum)) return sum;
+            if(!mp[sum]) return sum;
             ++sum;
         }
         return sum;
