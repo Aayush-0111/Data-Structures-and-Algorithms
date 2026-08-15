@@ -8,31 +8,37 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
- vector<int> store;
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(left == right) return head;
-        int pos = 1;
-        ListNode *temp = head, *lef = NULL, *rig = NULL;
-        store.clear();
-        store.reserve(right-left+1);
-        store.reserve(right-left+1);
-        while(temp && pos <= right){
-            if(pos == left) lef = temp;
-            if(pos == right) rig = temp;
-            if(pos >= left && pos <= right){
-                store.push_back(temp->val);
-            }
-            ++pos;
-            temp = temp->next;
+        // 1 2->3->4 5
+        // 1 2 - _ ->4 5
+        // 1 2(->4) <-3 (->4) 5
+        // 1 -> 2(->4)<-3 (->4) -> 5
+        // 1 -> 3 -> 2 -> 4 -> 5
+        // 13 2->4->5
+        // 13 2 - _ -> 5
+        // 13 2(->5) <- 4 (->5)
+        // 1->4->3->2->5
+        if(!head || left==right) return head;
+        ListNode* dummy = new ListNode(0); // in case, left is 1.
+        dummy->next = head;
+        ListNode* prev = dummy;
+        int i = 0; 
+        while(i < left-1) {
+            prev = prev->next;
+            ++i;
         }
-        temp = lef;
-        while(temp != rig->next){
-            temp->val = store.back();
-            store.pop_back();
-            temp = temp->next;
+        // run loop till right-left times
+        i = 0;
+        ListNode* curr = prev->next;
+        while(i < right-left){
+            ListNode* temp = curr->next;
+            curr->next = temp->next;
+            temp->next = prev->next;
+            prev->next = temp;
+            ++i;
         }
-        return head;
+        return dummy->next;
     }
 };
