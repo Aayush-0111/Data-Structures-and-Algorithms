@@ -601,6 +601,7 @@
 | [0567-permutation-in-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -665,6 +666,7 @@
 | [0206-reverse-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Data Stream
 |  |
