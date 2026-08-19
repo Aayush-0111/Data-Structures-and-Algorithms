@@ -1,40 +1,27 @@
 class Solution {
-private:
-    static inline int helper(const vector<int>& seat){
-        int n{(int)seat.size()};
-        if(n == 0) return 0;
-        bool slot1{true}, slot2{true}, slot3{true};
-        for(int i{0}; i < n; ++i){
-            slot1 = slot1 && !(seat[i] >= 2 && seat[i] <= 5);
-            slot2 = slot2 && !(seat[i] >= 4 && seat[i] <= 7);
-            slot3 = slot3 && !(seat[i] >= 6 && seat[i] <= 9);
-        }
-        if(slot1 && slot3) return 2; // slot2 have to be true anyways so not point checking.
-        if(slot1 || slot2 || slot3) return 1;
-        return 0; 
-    }
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        int m{(int)reservedSeats.size()}, ans{0};
-        int reservedRows{0};
-        vector<int> seat;
-        sort(reservedSeats.begin(),reservedSeats.end());
-        for(int i{0}; i < m; ++i){
-            int j{i}, row{reservedSeats[i][0]};
-            while(j < m && reservedSeats[j][0] == row){
-                seat.push_back(reservedSeats[j][1]);
-                ++j;
-            }            
-            ans += helper(seat);
-            seat.clear();
-            ++reservedRows;
-            i = j-1;
+        int left = 0b11110000;
+        int middle = 0b11000011;
+        int right = 0b00001111;
+
+        unordered_map<int, int> occupied;
+        for (const vector<int>& seat : reservedSeats) {
+            if (seat[1] >= 2 && seat[1] <= 9) {
+                occupied[seat[0]] |= (1 << (seat[1] - 2));
+            }
         }
-        ans += (n-reservedRows)*2;
+
+        int ans = (n - occupied.size()) * 2;
+        for (auto& [row, bitmask] : occupied) {
+            if (((bitmask | left) == left) || ((bitmask | middle) == middle) ||
+                ((bitmask | right) == right)) {
+                ++ans;
+            }
+        }
         return ans;
     }
 };
-
 auto init = []() {
     ios::sync_with_stdio(0);
     cin.tie(0);
