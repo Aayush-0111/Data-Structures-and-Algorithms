@@ -9,29 +9,21 @@
  * };
  */
 class Solution {
-private:
-    ListNode* reverse(ListNode* &head){
-        ListNode *prev = NULL, *next = NULL;
-        while(head){
-            next = head->next;
-            head->next = prev;
-            prev = head;
-            head = next;
-        }
-        return prev;
-    }
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-        ListNode *temp1 = head;
-        int x{k};
-        while(temp1 && --x) temp1 = temp1->next;        
-        head = reverse(head);
-        ListNode *temp2 = head;
-        while(temp2 && --k) temp2 = temp2->next;
-        int val1{temp1->val}, val2{temp2->val};
-        temp1->val = val2;
-        temp2->val = val1;
-        head = reverse(head);
+        // idea is to first find the kth node from begining and store it's reference
+        // then have another pointer(pointing at head) start traversing the list
+        // along with the inital pointer pointing at kth node. 
+        // Both pointers have a differnce of k positions b/w them
+        // and by the time initial pointer reach the end, your second pointer will point to kth node.
+        ListNode *firstK = NULL, *right = head, *left = head;
+        while(right && --k) right = right->next;
+        firstK = right;
+        while(right->next){
+            left = left->next;
+            right = right->next;
+        }
+        swap(firstK->val,left->val);
         return head;
     }
 };
