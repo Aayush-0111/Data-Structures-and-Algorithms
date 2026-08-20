@@ -22,6 +22,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0384-shuffle-an-array) |
@@ -187,6 +188,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -565,6 +567,7 @@
 | [0078-subsets](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0693-binary-number-with-alternating-bits) |
@@ -606,6 +609,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
@@ -771,4 +775,9 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
