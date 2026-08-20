@@ -219,6 +219,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
+| [0142-linked-list-cycle-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
@@ -604,6 +605,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
@@ -669,6 +671,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
@@ -764,4 +767,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
