@@ -37,6 +37,21 @@ private:
     }
 public:
     long long findKthSmallest(vector<int>& coins, int k) {
+        // First remove redundant coins like if there is {2,6} here 6 is redundant
+        // cause every amount produced by 6 will be produced by 6, so we don't need 6.
+        sort(coins.begin(),coins.end());
+        vector<int> newCoins;
+        for(int& x : coins){
+            bool redundant = false;
+            for(int& y : newCoins){
+                if(x%y == 0){
+                    redundant = true;
+                    break;
+                }
+            }
+            if(!redundant) newCoins.push_back(x);
+        }
+        coins = newCoins;
         ll low{1};
         // high is smallest coin*k cause it independently can produce c,2c,3c,,,kc amounts
         // so including the contribution of ohter coins, kth smallest amount will be <= it.
