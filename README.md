@@ -322,6 +322,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -407,6 +408,7 @@
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1927-sum-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -513,6 +515,7 @@
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -738,6 +741,7 @@
 | [1406-stone-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
 | ------- |
