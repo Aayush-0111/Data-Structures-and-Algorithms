@@ -16,11 +16,15 @@ public:
             ListNode *temp = curr->next;
             if(temp && temp->val == curr->val){
                 while(temp && temp->val == curr->val){
+                    ListNode *duplicate = temp;
                     temp = temp->next;
+                    delete duplicate;
                 }
+                ListNode *dup = curr;
+                delete dup;
                 if(!prev){
+                    head = temp;
                     curr = temp;
-                    head = curr;
                     continue;
                 }
                 prev->next = temp;
