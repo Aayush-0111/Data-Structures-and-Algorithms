@@ -25,10 +25,11 @@ public:
                 if(!prev){
                     head = temp;
                     curr = temp;
-                    continue;
+                }else{
+                    prev->next = temp;
+                    curr = temp;
                 }
-                prev->next = temp;
-                curr = temp;
+                
             }else{
                 prev = curr;
                 curr = curr->next;
