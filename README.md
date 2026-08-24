@@ -71,6 +71,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -408,6 +409,7 @@
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -454,6 +456,7 @@
 | [1563-stone-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -557,6 +560,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [3355-zero-array-transformation-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3355-zero-array-transformation-i) |
@@ -741,6 +745,7 @@
 | [1406-stone-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
@@ -770,12 +775,14 @@
 | [1140-stone-game-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
