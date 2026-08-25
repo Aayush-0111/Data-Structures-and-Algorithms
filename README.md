@@ -121,6 +121,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
@@ -267,6 +268,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
