@@ -704,6 +704,7 @@
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Data Stream
 |  |
