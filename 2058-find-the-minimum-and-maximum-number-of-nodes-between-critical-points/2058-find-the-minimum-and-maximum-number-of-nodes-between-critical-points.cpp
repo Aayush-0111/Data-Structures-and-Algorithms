@@ -13,17 +13,16 @@ public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         if(!head || !head->next || !head->next->next) return {-1,-1};
         int mini{INT_MAX}, maxi{0}, currIdx{2}, prevIdx{0}, firstIdx{0};
-        ListNode *prev = head, *curr = head->next, *next = head->next->next;
-        while(next){
-            if((curr->val > prev->val && curr->val > next->val) || (curr->val < prev->val && curr->val < next->val)){
+        ListNode *prev = head, *curr = head->next;
+        while(curr->next){
+            if((curr->val > prev->val && curr->val > curr->next->val) || (curr->val < prev->val && curr->val < curr->next->val)){
                 firstIdx = (!firstIdx) ? currIdx : firstIdx;
                 prevIdx = (!prevIdx) ? currIdx : prevIdx;
                 mini = (currIdx != prevIdx) ? min(mini,currIdx-prevIdx) : mini;
                 prevIdx = currIdx;
             }
             prev = curr;
-            curr = next;
-            next = next->next;
+            curr = curr->next;
             ++currIdx;
         }
         if(mini == INT_MAX) return {-1,-1};
