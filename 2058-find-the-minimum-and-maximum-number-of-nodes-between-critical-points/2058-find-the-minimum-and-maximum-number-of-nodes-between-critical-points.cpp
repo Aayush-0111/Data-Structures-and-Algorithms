@@ -9,28 +9,25 @@
  * };
  */
 class Solution {
-private:
-    void solve(ListNode *prev, ListNode* curr, ListNode* nxt, int pos, vector<int>& dist){
-        if(!nxt) return;
-        // check for minima and maxima
-        if((curr->val < prev->val && curr->val < nxt->val) || (curr->val > prev->val && curr->val > nxt->val)) dist.push_back(pos);
-        prev = curr;
-        curr = nxt;
-        nxt = nxt->next;
-        ++pos;
-        solve(prev,curr,nxt,pos,dist);
-    }
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         if(!head || !head->next || !head->next->next) return {-1,-1};
-        ListNode *prev = head, *curr = head->next, *nxt = head->next->next;
-        int pos = 2;
-        vector<int> dist;
-        solve(prev,curr,nxt,pos,dist);
-        if((int)dist.size() < 2) return {-1,-1};
-        int mini = INT_MAX, maxi = INT_MIN;
-        for(int i{0}; i < dist.size()-1; ++i) mini = min(mini,dist[i+1] - dist[i]);
-        maxi = dist.back() - dist[0];
+        int mini{INT_MAX}, maxi{0}, currIdx{2}, prevIdx{0}, firstIdx{0};
+        ListNode *prev = head, *curr = head->next, *next = head->next->next;
+        while(next){
+            if((curr->val > prev->val && curr->val > next->val) || (curr->val < prev->val && curr->val < next->val)){
+                firstIdx = (!firstIdx) ? currIdx : firstIdx;
+                prevIdx = (!prevIdx) ? currIdx : prevIdx;
+                mini = (currIdx != prevIdx) ? min(mini,currIdx-prevIdx) : mini;
+                prevIdx = currIdx;
+            }
+            prev = curr;
+            curr = next;
+            next = next->next;
+            ++currIdx;
+        }
+        if(mini == INT_MAX) return {-1,-1};
+        maxi = prevIdx - firstIdx;
         return {mini,maxi};
     }
 };
