@@ -8,7 +8,10 @@ public:
         int pre{INT_MIN}, stable{INT_MAX};
         for(int i{0}; i < n; ++i){
             pre = max(pre,nums[i]);
-            if(pre-suff[i] <= k) stable = min(stable,i);
+            if(pre-suff[i] <= k) {
+                stable = i;
+                break;
+            }
         }
         return (stable != INT_MAX) ? stable : -1;
     }
