@@ -11,31 +11,28 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        if(!head->next) return true;
-        vector<int> temp;
-        ListNode *curr = head;
-        // put elements of LL in an array
-        while(curr){
-            temp.push_back(curr->val);
-            curr = curr->next;
+        if(!head->next) return head;
+        ListNode *slow = head, *fast = head->next;
+        if(!fast->next) return slow->val == fast->val;
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        // reverse the linked list
+        fast = slow->next;
         ListNode *prev = NULL;
-        curr = head;
-        while(curr){
-            ListNode *next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
+        while(fast){
+            ListNode *next = fast->next;
+            fast->next = prev;
+            prev = fast;
+            fast = next;
         }
-        head = prev;
-        curr = head;
-        // compare the elements of reverse list with the array elements
-        int i{0};
-        while(curr){
-            if(curr->val != temp[i++]) return false;
-            curr = curr->next;
+        fast = prev;
+        slow = head;
+        while(fast && slow){
+            if(slow->val != fast->val) return false;
+            slow = slow->next;
+            fast = fast->next;
         }
-        return true;
+        return true; 
     }
 };
