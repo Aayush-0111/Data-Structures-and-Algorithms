@@ -401,6 +401,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
@@ -703,6 +704,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
@@ -777,6 +779,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
