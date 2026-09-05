@@ -12,9 +12,6 @@ class Solution {
 public:
     bool isPalindrome(ListNode* head) {
         if(!head->next) return true;
-        // put elements of LL in an array
-        // reverse the linked list
-        // compare the elements of reverse list with the array elements
         vector<int> temp;
         ListNode *curr = head;
         // put elements of LL in an array
