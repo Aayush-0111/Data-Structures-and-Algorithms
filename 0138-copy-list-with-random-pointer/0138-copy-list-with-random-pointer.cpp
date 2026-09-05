@@ -17,27 +17,35 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        // Using only 1 map.
+        // Without using extra space
         if(!head) return NULL;
         Node *head2 = new Node(head->val);
-        Node *curr = head->next; 
-        Node *curr2 = head2;
-        unordered_map<Node*,Node*> mp;
-        mp[head] = head2;
+        Node *next = head->next;
+        head->next = head2;
+        head2->next = next;
+        Node *curr = next;
         while(curr){
+            next = curr->next;
             Node *node = new Node(curr->val);
-            curr2->next = node;
-            mp[curr] = node;
-            curr2 = node;
-            curr = curr->next;
+            curr->next = node;
+            node->next = next;
+            curr = next;
         }
-        curr2 = head2;
         curr = head;
-        // old node ke random ka current counterpart apne current ka random banega.
-        while(curr){
-            curr2->random = (mp.count(curr->random)) ? mp[curr->random] : NULL;
+        next = head2;
+        while(next){
+            if(curr->random) next->random = curr->random->next;
+            if(!next->next) break;
+            curr = curr->next->next;
+            next = next->next->next;
+        }
+        curr = head;
+        next = head2;
+        while(curr && next){
+            curr->next = next->next;
             curr = curr->next;
-            curr2 = curr2->next;
+            next->next = (curr) ? curr->next : NULL;
+            next = next->next;
         }
         return head2;
     }
