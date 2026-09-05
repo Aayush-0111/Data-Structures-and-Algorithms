@@ -480,6 +480,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
@@ -639,6 +640,7 @@
 | [0061-rotate-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
@@ -710,6 +712,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -778,6 +781,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
