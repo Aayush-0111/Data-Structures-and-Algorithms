@@ -313,6 +313,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0383-ransom-note](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
@@ -458,6 +459,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
