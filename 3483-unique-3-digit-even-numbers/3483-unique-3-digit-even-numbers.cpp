@@ -1,22 +1,24 @@
-static int arr[1000];
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        memset(arr,0,sizeof(arr));
+        int arr[10] = {0};
         int n = digits.size();
-        for(int i{0}; i < n; ++i){
-            if(!digits[i]) continue;
-            for(int j{0}; j < n; ++j){
-                if(i == j) continue;
-                for(int k{0}; k < n; ++k){
-                    if(i == k || j == k) continue;
-                    int t = digits[i]*100 + digits[j]*10 + digits[k];
-                    if(t%2 == 0) ++arr[t];
-                }
-            }
-        }
+        for(int i{0}; i < n; ++i) ++arr[digits[i]];
         int count{0};
-        for(int i{100}; i <= 998; i+=2) if(arr[i]) ++count;
+        for(int i{100}; i <= 998; i+=2){
+            int arr2[10] = {0};
+            copy(arr,arr+10,arr2);
+            int num{i}; 
+            --arr2[num%10];
+            if(arr2[num%10] < 0) continue;
+            num /= 10;
+            --arr2[num%10];
+            if(arr2[num%10] < 0) continue;
+            num /= 10;
+            --arr2[num%10];
+            if(arr2[num%10] < 0) continue;
+            ++count;
+        }
         return count;
     }
 };
