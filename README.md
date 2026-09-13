@@ -40,6 +40,7 @@
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
@@ -684,6 +685,7 @@
 | [0037-sudoku-solver](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
