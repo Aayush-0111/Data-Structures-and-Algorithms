@@ -19,8 +19,7 @@ public:
         for(auto& p : im1){
             for(auto& q : im2){
                 const pair<int,int> offs = {p.first-q.first,p.second-q.second};
-                ++offset[offs];
-                ans = max(ans,offset[offs]);
+                ans = max(ans,++offset[offs]);
             }
         }
         return ans;
