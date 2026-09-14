@@ -419,6 +419,7 @@
 | [0509-fibonacci-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
@@ -747,6 +748,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String Matching
 |  |
