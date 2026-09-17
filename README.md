@@ -60,6 +60,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1590-make-sum-divisible-by-p) |
@@ -203,6 +204,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
@@ -255,6 +257,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -298,6 +301,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -479,6 +483,7 @@
 | [1140-stone-game-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1563-stone-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
