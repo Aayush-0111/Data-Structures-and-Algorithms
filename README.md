@@ -342,6 +342,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -670,6 +671,7 @@
 | [0696-count-binary-substrings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0870-advantage-shuffle](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0870-advantage-shuffle) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
