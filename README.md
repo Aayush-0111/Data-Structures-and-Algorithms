@@ -360,6 +360,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2575-find-the-divisibility-array-of-a-string) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2833-furthest-point-from-origin](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -492,6 +493,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -505,6 +507,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 ## Tree
 |  |
@@ -559,6 +562,7 @@
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
