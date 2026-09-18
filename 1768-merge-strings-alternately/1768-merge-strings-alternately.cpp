@@ -1,15 +1,17 @@
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
-        int i{0}, j{0};
         int n = word1.size(), m = word2.size();
-        string merged{""};
-        while(i < n && j < m){
-            merged += word1[i++];
-            merged += word2[j++];
+        word1.resize(n+m);
+        int i{n-1}, j{m-1}, k{n+m-1};
+        // if word2 have more character than word1
+        while(j >= n) word1[k--] = word2[j--];
+        while(i >= 0 && j >= 0){
+            if(i == j){
+                word1[k--] = word2[j--];
+                word1[k--] = word1[i--];
+            }else word1[k--] = word1[i--];
         }
-        while(i < n) merged += word1[i++];
-        while(j < m) merged += word2[j++];
-        return merged;
+        return word1; 
     }
 };
