@@ -1,6 +1,8 @@
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
+        if(word1.empty()) return word2;
+        if(word2.empty()) return word1;
         int n = word1.size(), m = word2.size();
         word1.resize(n+m);
         int i{n-1}, j{m-1}, k{n+m-1};
