@@ -378,6 +378,7 @@
 | [3210-find-the-encrypted-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3210-find-the-encrypted-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3612-process-string-with-special-operations-i) |
@@ -410,6 +411,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3819-rotate-non-negative-elements) |
