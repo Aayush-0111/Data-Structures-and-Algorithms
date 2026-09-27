@@ -1,14 +1,25 @@
 class Solution {
 public:
     string reverseParentheses(string s) {
-        stack<int> openPar;
-        string ans = "";
-        for(char& c : s){
-            if(c == '(') openPar.push(ans.length());
+        int n = s.size();
+        stack<int> open;
+        vector<int> holes(n);
+        for(int i{0}; i < n; ++i){
+            char c{s[i]};
+            if(c == '(') open.push(i);
             else if(c == ')'){
-                int start = openPar.top();
-                openPar.pop();
-                reverse(ans.begin()+start, ans.end());
+                int j{open.top()};
+                holes[i] = j;
+                holes[j] = i;
+                open.pop();
+            }
+        }
+        string ans;
+        for(int i{0}, dir{1}; i < n; i+=dir){
+            char c{s[i]};
+            if(c == '(' || c == ')'){
+                i = holes[i];
+                dir = -dir;
             }else ans += c;
         }
         return ans;
