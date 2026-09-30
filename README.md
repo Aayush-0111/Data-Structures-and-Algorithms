@@ -319,6 +319,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -550,6 +551,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0190-reverse-bits) |
 | [0932-beautiful-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0932-beautiful-array) |
@@ -751,6 +753,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
@@ -843,6 +846,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Minimax
@@ -886,4 +890,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
