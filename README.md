@@ -330,6 +330,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0383-ransom-note](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
@@ -521,6 +522,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0682-baseball-game) |
@@ -893,6 +895,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
