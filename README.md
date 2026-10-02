@@ -331,6 +331,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
 | [0383-ransom-note](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
@@ -491,6 +492,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
@@ -671,6 +673,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0046-permutations) |
@@ -896,6 +899,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
