@@ -366,6 +366,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -541,6 +542,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
@@ -593,6 +595,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2126-destroying-asteroids) |
@@ -713,6 +716,7 @@
 | [1768-merge-strings-alternately](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1861-rotating-the-box) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -914,6 +918,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tournament Sort
 |  |
