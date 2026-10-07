@@ -335,6 +335,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
@@ -697,6 +698,7 @@
 | [0078-subsets](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1980-find-unique-binary-string) |
@@ -816,6 +818,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
