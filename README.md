@@ -153,6 +153,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
