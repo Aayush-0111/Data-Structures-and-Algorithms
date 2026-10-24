@@ -398,6 +398,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2409-count-days-spent-together](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2575-find-the-divisibility-array-of-a-string) |
@@ -487,6 +488,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2409-count-days-spent-together](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2413-smallest-even-multiple) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2575-find-the-divisibility-array-of-a-string) |
