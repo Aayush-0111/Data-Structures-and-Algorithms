@@ -50,6 +50,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -586,6 +587,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -778,6 +780,7 @@
 | [0498-diagonal-traverse](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -807,6 +810,7 @@
 |  |
 | ------- |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -851,6 +855,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
