@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0228-summary-ranges) |
@@ -587,6 +588,7 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
@@ -779,6 +781,7 @@
 | [0036-valid-sudoku](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0867-transpose-matrix) |
@@ -812,6 +815,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -858,6 +862,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
