@@ -130,6 +130,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
@@ -590,6 +591,7 @@
 | [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -791,6 +793,7 @@
 | [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -811,6 +814,7 @@
 | ------- |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -857,6 +861,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Number Theory
 |  |
