@@ -124,6 +124,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3355-zero-array-transformation-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3355-zero-array-transformation-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
 | [3452-sum-of-good-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3452-sum-of-good-numbers) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -343,6 +344,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
@@ -692,6 +694,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2906-construct-product-matrix) |
 | [3355-zero-array-transformation-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3355-zero-array-transformation-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3546-equal-sum-grid-partition-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3719-longest-balanced-subarray-i) |
