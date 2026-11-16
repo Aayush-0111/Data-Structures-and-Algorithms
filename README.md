@@ -407,6 +407,7 @@
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2129-capitalize-the-title) |
 | [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2409-count-days-spent-together](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2409-count-days-spent-together) |
@@ -456,6 +457,7 @@
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2211-count-collisions-on-a-road](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2211-count-collisions-on-a-road) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
