@@ -100,6 +100,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -188,6 +189,7 @@
 | [2126-destroying-asteroids](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2751-robot-collisions](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -649,6 +651,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
