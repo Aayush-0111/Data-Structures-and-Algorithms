@@ -59,6 +59,7 @@
 | [1306-jump-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1386-cinema-seat-allocation) |
@@ -494,6 +495,7 @@
 | [1025-divisor-game](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1510-stone-game-iv) |
@@ -690,6 +692,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1590-make-sum-divisible-by-p) |
@@ -825,6 +828,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0706-design-hashmap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
 | ------- |
@@ -862,6 +866,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/1352-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
