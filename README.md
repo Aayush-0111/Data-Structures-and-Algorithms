@@ -128,6 +128,7 @@
 | [3355-zero-array-transformation-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3355-zero-array-transformation-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3452-sum-of-good-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3452-sum-of-good-numbers) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -256,6 +257,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -348,6 +350,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
@@ -520,6 +523,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -898,6 +902,7 @@
 | [2413-smallest-even-multiple](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/2413-smallest-even-multiple) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayush-0111/Data-Structures-and-Algorithms/tree/master/3867-sum-of-gcd-of-formed-pairs) |
